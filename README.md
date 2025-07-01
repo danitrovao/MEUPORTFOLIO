@@ -1,36 +1,67 @@
-Portfolio - Daniela Trovão
-Bem-vinda(o) ao meu portfólio pessoal! Este projeto é uma vitrine do meu trabalho como Desenvolvedora Front-end, exibindo minhas habilidades e os projetos que desenvolvi.
+💼 Portfólio - Daniela Trovão
+Bem-vinda(o) ao meu portfólio pessoal! Este projeto foi desenvolvido para destacar minhas habilidades como Desenvolvedora Front-end, servindo como uma vitrine dos meus projetos e competências em desenvolvimento web.
 
-Visão Geral do Projeto
-Este portfólio foi criado com o objetivo de apresentar minhas competências em desenvolvimento web e servir como um hub central para meus projetos. 
-Ele é responsivo, garantindo uma boa experiência de usuário em diversos dispositivos.
+![1](https://github.com/user-attachments/assets/5e160922-4ca3-474e-8ee7-998ce3cbd9fd)
 
-![1](https://github.com/user-attachments/assets/d05f2389-4448-4f14-a289-84bd2f736b9d)
 
-Tecnologias Utilizadas
-HTML5: Estrutura semântica e acessível do conteúdo.
+🌐 Visão Geral
+Este portfólio foi criado com os seguintes objetivos:
 
-CSS3: Estilização e responsividade, com uso de Flexbox e Grid para layouts modernos.
+Apresentar minhas habilidades técnicas e criativas.
 
-JavaScript: Interatividade, animações e lógica de frontend.
+Reunir meus principais projetos em um só lugar.
 
-jQuery: Manipulação do DOM e simplificação de interações JavaScript.
+Oferecer uma experiência fluida e responsiva para qualquer dispositivo.
 
-ScrollReveal.js: Biblioteca para animações de rolagem.
+O design foi pensado para ser limpo, intuitivo e funcional, refletindo minha abordagem profissional e foco em usabilidade.
 
-Gumshoe.js: Biblioteca para navegação por rolagem (scrollspy).
+🛠️ Tecnologias Utilizadas
+HTML5: Estrutura semântica e acessível.
 
-Funcionalidades
-Seção de Início (Hero Section): Apresentação inicial com informações sobre mim e links para contato/projetos.
+CSS3: Estilização moderna com Flexbox e Grid para layout responsivo.
 
-Sobre Mim: Detalhes sobre minha jornada no desenvolvimento web e filosofia de trabalho.
+JavaScript: Interatividade e lógica de interface.
 
-Habilidades/Tecnologias: Progress bars visuais para demonstrar proficiência em diversas tecnologias (Figma, Adobe XD, Photoshop, Illustrator, HTML, CSS, JavaScript, React Js).
+jQuery: Simplificação da manipulação do DOM.
 
-Projetos (Portfólio): Galeria de projetos desenvolvidos, com links diretos para visualização.
+ScrollReveal.js: Animações durante a rolagem.
 
-Contato: Formas de contato, incluindo e-mail e links para redes sociais (Instagram, LinkedIn, GitHub).
+Gumshoe.js: Navegação dinâmica com scrollspy.
 
-Navegação Fixa (Sticky Navbar): Menu de navegação que se fixa ao topo da página ao rolar.
+🚀 Funcionalidades
+🔹 Início (Hero Section)
+Apresentação com meu nome, breve descrição e links rápidos.
 
-Design Responsivo: O layout se adapta a diferentes tamanhos de tela (desktop, tablet, mobile).
+🔹 Sobre Mim
+Um pouco da minha trajetória, valores e filosofia como desenvolvedora.
+
+🔹 Habilidades e Tecnologias
+Barras de progresso representando proficiência em ferramentas e linguagens como:
+
+Figma
+
+Adobe XD
+
+Photoshop
+
+Illustrator
+
+HTML
+
+CSS
+
+JavaScript
+
+React.js
+
+🔹 Projetos (Portfólio)
+Galeria com os principais projetos desenvolvidos, incluindo links para visualização ao vivo ou repositórios.
+
+
+🔹 Navegação Fixa (Sticky Navbar)
+Barra de menu que permanece visível ao rolar a página.
+
+🔹 Design Responsivo
+Layout adaptado para desktop, tablet e dispositivos móveis.
+
+
