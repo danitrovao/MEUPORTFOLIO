@@ -1,4 +1,5 @@
-💼 Portfólio - Daniela Trovão
+ *Portfólio - Daniela Trovão*
+
 Bem-vinda(o) ao meu portfólio pessoal! Este projeto foi desenvolvido para destacar minhas habilidades como Desenvolvedora Front-end, servindo como uma vitrine dos meus projetos e competências em desenvolvimento web.
 
 ![1](https://github.com/user-attachments/assets/5e160922-4ca3-474e-8ee7-998ce3cbd9fd)
