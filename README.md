@@ -15,6 +15,8 @@ Oferecer uma experiência fluida e responsiva para qualquer dispositivo.
 
 O design foi pensado para ser limpo, intuitivo e funcional, refletindo minha abordagem profissional e foco em usabilidade.
 
+
+
 🛠️ Tecnologias Utilizadas
 HTML5: Estrutura semântica e acessível.
 
@@ -28,6 +30,8 @@ ScrollReveal.js: Animações durante a rolagem.
 
 Gumshoe.js: Navegação dinâmica com scrollspy.
 
+
+
 🚀 Funcionalidades
 🔹 Início (Hero Section)
 Apresentação com meu nome, breve descrição e links rápidos.
@@ -38,21 +42,7 @@ Um pouco da minha trajetória, valores e filosofia como desenvolvedora.
 🔹 Habilidades e Tecnologias
 Barras de progresso representando proficiência em ferramentas e linguagens como:
 
-Figma
-
-Adobe XD
-
-Photoshop
-
-Illustrator
-
-HTML
-
-CSS
-
-JavaScript
-
-React.js
+Figma, Adobe XD, Photoshop, Illustrator, HTML, CSS, JavaScript e React.js
 
 🔹 Projetos (Portfólio)
 Galeria com os principais projetos desenvolvidos, incluindo links para visualização ao vivo ou repositórios.
