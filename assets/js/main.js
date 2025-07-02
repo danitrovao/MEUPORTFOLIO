@@ -34,25 +34,6 @@ btn.on('click', function (e) {
     $('html, body').animate({ scrollTop: 0 }, 500);
 });
 
-// Testimonial Slider (Owl Carousel)
-if ($('.testmonial-slider').length > 0 && $.fn.owlCarousel) {
-    $('.testmonial-slider').owlCarousel({
-        autoplay: true,
-        autoplayTimeout: 1500,
-        autoplayHoverPause: true,
-        loop: true,
-        responsiveClass: true,
-        nav: false,
-        dots: true,
-        smartSpeed: 700,
-        margin: 30,
-        responsive: {
-            0: { items: 1 },
-            600: { items: 2 },
-            1000: { items: 2 }
-        }
-    });
-}
 
 // ScrollReveal Animations
 if (typeof ScrollReveal === 'function') {
@@ -81,9 +62,6 @@ if (typeof ScrollReveal === 'function') {
     // CTA Section
     sr.reveal('.cta-inner', { delay: 100 });
     sr.reveal('.btn-outline', { delay: 200 });
-
-    // Testimonial
-    sr.reveal('.testmonial-slider');
 
     // Contact Section
     sr.reveal('.contact-inner');
