@@ -5,7 +5,7 @@ Bem-vinda(o) ao meu portfólio pessoal! Este projeto foi desenvolvido para desta
 ![1](https://github.com/user-attachments/assets/5e160922-4ca3-474e-8ee7-998ce3cbd9fd)
 
 
-🌐 Visão Geral
+🌐 Visão Geral:
 Este portfólio foi criado com os seguintes objetivos:
 
 Apresentar minhas habilidades técnicas e criativas.
